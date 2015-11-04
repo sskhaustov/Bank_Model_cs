@@ -1,0 +1,11 @@
+D:\labC\CMO\CMO\bin\Debug\CMO.exe
+D:\labC\CMO\CMO\bin\Debug\CMO.pdb
+D:\labC\CMO\CMO\obj\Debug\ResolveAssemblyReference.cache
+D:\labC\CMO\CMO\obj\Debug\CMO.Properties.Resources.resources
+D:\labC\CMO\CMO\obj\Debug\CMO.csproj.GenerateResource.Cache
+D:\labC\CMO\CMO\obj\Debug\CMO.exe
+D:\labC\CMO\CMO\obj\Debug\CMO.pdb
+D:\labC\CMO\CMO\obj\Debug\CMO.Form2.resources
+D:\labC\CMO\CMO\obj\Debug\CMO.Form3.resources
+D:\labC\CMO\CMO\obj\Debug\CMO.Form4.resources
+D:\labC\CMO\CMO\obj\Debug\CMO.Form1.resources
